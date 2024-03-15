@@ -51,13 +51,13 @@ NB: for Widar, `num_channels` and `num_classes` must be 22.
 
 ![image-20240315102602639](https://s2.loli.net/2024/03/15/arwh5FyneVOWotb.png)
 
-<figure class="half">
-    <center>
+<center>
     <img src="https://s2.loli.net/2024/03/15/s72ldS4XCfgT9pw.png">
-    <img src="https://s2.loli.net/2024/03/15/Gmhg5Y62cKSP4kv.png">
-    </center>
-</figure>
+</center>
 
+<center>
+        <img src="https://s2.loli.net/2024/03/15/Gmhg5Y62cKSP4kv.png">
+</center>
 
 
 
